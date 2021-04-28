@@ -1,0 +1,73 @@
+﻿*{
+    margin: 0; padding: 0;
+}
+
+html {
+    background-color: black;
+}
+
+body{
+    width: 750px; height:750px;
+    margin: auto; background-color: pink;
+}
+
+header {
+    width: 750px; height: 250px;
+    background-color: aquamarine;
+}
+
+section#banner {
+    width:500px; height: 250px;
+    background-color: paleturquoise;
+    float: left;
+}
+
+section#logo {
+    width:250px; height: 125px;
+    background-color: palegreen;
+    float: right;
+}
+
+section#login {
+    width:250px; height: 125px;
+    background-color: darkgoldenrod;
+    float: right;
+}
+
+
+
+nav{
+    width: 750px; height: 50px;
+    background-color: burlywood;
+}
+
+
+main{
+    width: 750px; height: 400px;
+    background-color: coral;
+}
+
+aside#left {
+    width: 150px; height: 400px;
+    background-color: rebeccapurple;
+    float: left;
+}
+
+article {
+    width: 500px; height: 400px;
+    background-color: sandybrown;
+    float: left;
+}
+
+
+aside#right {
+    width: 100px; height: 400px;
+    background-color: chartreuse;
+    float: left;
+}
+
+
+footer {
+    width: 750px; height: 50px;
+    background-color: olive;
+}
